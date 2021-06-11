@@ -8,6 +8,7 @@ body {
   background: url("https://media.giphy.com/media/QRhtqYeEywJI4/giphy.gif");
   background-size: cover;
   background-repeat: no-repeat;
+  background: position 100px;
 }
 
 code {
